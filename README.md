@@ -1,15 +1,15 @@
 OrangePi Build System
 ---------------------------------------
 
-Welcome to OrangePi Build System, Good start Linux World with OrangePi!
+Welcome to the OrangePi Build System, have a good start into the Linux World with OrangePi!
 
-Funny with your idear and build your owner Linux system.
+Have fun with your ideas and build your own custom Linux system.
 
 #### OrangePi Build System support list:
 
   * OrangePi PC2
  
-  * OrangePi Prima
+  * OrangePi Prime
  
   * OrangePi Win
 
@@ -44,11 +44,11 @@ Funny with your idear and build your owner Linux system.
 #### Using OrangePi Build System
 
    It's easy to build owner Linux distro in OrangePi Build System, you need follow
-   thoese steps:
+   this steps:
 
    1. Download source code for your OrangePi Board.
 
-      You need clone this repertory, and run build scripts to download
+      You need clone this Repo, and run build scripts to download
       source code for your OrangePi Board. such as:
       
       ```
